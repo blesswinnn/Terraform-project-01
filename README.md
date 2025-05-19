@@ -140,23 +140,7 @@ root_block_device {
 ```
 
 
-# rest all sub scripts provided in main branch.
 
-# resources created using terraform in AWS CLOUD :
-
-![image](https://github.com/user-attachments/assets/78b9e712-5b2c-479b-bd54-3def00b3ddaa)
-
-![image](https://github.com/user-attachments/assets/5bff5786-2747-4786-9159-e04ab6046bbf)
-
-![image](https://github.com/user-attachments/assets/d39b1596-aae3-49c2-b084-ee8ee70e842a)
-
-![image](https://github.com/user-attachments/assets/97b39b2f-c9cf-45b7-865a-df5f9b969922)
-
-![image](https://github.com/user-attachments/assets/707e6cfe-330d-453d-87b7-664c73e8806b)
-
-![image](https://github.com/user-attachments/assets/cf782691-dce4-4318-ad40-8974f0d462ed)
-
-![image](https://github.com/user-attachments/assets/670af88b-5396-4951-a4d6-8aa2ca0b02a0)
 
 
 
